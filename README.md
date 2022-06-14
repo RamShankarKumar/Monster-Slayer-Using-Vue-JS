@@ -22,7 +22,7 @@
 15. Difference between 'v-show' and 'v-if'
 
 
-## Functionality of the this Game project -- 
+## Functionality of this Game project -- 
 
 1. Attacking monster
 2. Doing special attack to monster
